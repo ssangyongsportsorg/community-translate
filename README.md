@@ -5,10 +5,5 @@
 
 連結：
 ```bash
-[CODE=git]cd
-
+cd
 git https://github.com/ssangyongsportsorg/community-translate.git
-
-[/CODE]
-```bash
-
