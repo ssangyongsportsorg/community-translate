@@ -7,5 +7,7 @@
 ```bash
 cd
 git https://github.com/ssangyongsportsorg/community-translate.git
+```
+或直接下載
 2.使用編輯器（vscode）進行編輯
 3.提交Pull requests
